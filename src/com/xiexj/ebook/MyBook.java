@@ -24,7 +24,7 @@ public class MyBook extends Activity {
 			R.drawable.book_back_cover
 	};
 	
-//	private String content = " ";
+//	private String content = "测试 ";
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
