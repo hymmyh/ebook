@@ -24,7 +24,7 @@ public class MyBook extends Activity {
 			R.drawable.book_back_cover
 	};
 	
-//	private String content = "    大家好，这是我第一次在这个论坛里发帖。学习android也快将近一年了，期间用android做过几个手机项目，以及在工作之余写过一个游戏。前段时间在论坛里有人寻求翻书效果的代码，当时也是抱着尝试一下的态度去做做试试，在工作之余经过3天半的奋战，终于一个漂亮的android翻页效果出炉了";
+//	private String content = "   ";
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
