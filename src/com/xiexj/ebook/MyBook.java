@@ -10,7 +10,7 @@ import android.os.Bundle;
 public class MyBook extends Activity {
 	
 	private BookLayout blo;
-	
+	//测试新的分支。
 	private int[] imgs = {
 			R.drawable.book_cover,
 			-1,
@@ -24,7 +24,7 @@ public class MyBook extends Activity {
 			R.drawable.book_back_cover
 	};
 	
-//	private String content = "测试 我来了 ";
+//	private String content = " 测试 ";
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
